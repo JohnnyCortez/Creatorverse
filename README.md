@@ -31,7 +31,7 @@ Show an image of each content creator on their content creator card
 
 Here's a walkthrough of implemented features:
 
-<img src='creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[creatorverse.gif](https://github.com/JohnnyCortez/Creatorverse/blob/39bc89b448c8a152ec86c04fbc19c6fa7534c658/creatorverse.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
