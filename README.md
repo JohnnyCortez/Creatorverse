@@ -2,7 +2,7 @@
 
 Submitted by: Johnny A. Cortez
 
-Add you're favorite creators!
+Add your favorite creators!
 
 ## Features
 
@@ -31,7 +31,7 @@ Show an image of each content creator on their content creator card
 
 Here's a walkthrough of implemented features:
 
-<img src='Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
