@@ -37,8 +37,9 @@ function View() {
                 <p>{creator.name}</p>
                 <img class="creator-pic" src = {creator.imageurl}></img>
                 <p>{creator.description}</p>
-                <a url = {creator.url}>creator content</a>
-                <Link to="/edit" state={{id: creator.id}}><p>Edit</p></Link>
+                <a href = {creator.url}>creator content</a>
+                <br/>
+                <Link to="/edit" state={{id: creator.id}}><button>Edit</button></Link>
             </div>
         </>
     )

@@ -79,6 +79,7 @@ a {
 }
 
 .creator-pic {
-  width: 50px;
-  height: 300px;
+  max-width: 500px;
+  max-height: 500px;
+  padding: 10px;
 }
